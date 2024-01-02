@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>my first server</div>
+      <div>change local and get server</div>
     </>
   )
 }
